@@ -2,11 +2,8 @@ package ui;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.PrintStream;
-
 import model.InfrastructureDepartment;
 
 public class Main {
@@ -54,9 +51,7 @@ public class Main {
 			break;
 		case 3:
 			infrastructureDepartment.exportDangerousBillboardReport("exportar");
-			FileOutputStream os = new FileOutputStream("report.txt");
-			PrintStream ps = new PrintStream(os);
-			ps.println("prueba de impresión realizada");
+			
 			break;
 		default:
 			break;
