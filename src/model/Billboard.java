@@ -19,7 +19,7 @@ public class Billboard implements Serializable  {
 	
 	public double calculateArea() {
 		double area = 0;
-		area = width*heigth;
+		area = (width*heigth)/2;
 		return area;
 	}
 

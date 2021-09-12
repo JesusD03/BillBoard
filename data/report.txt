@@ -1,0 +1,105 @@
+==========================
+DANGEROUS BILLBOARD REPORT
+==========================
+The dangerous billboard are:
+1. Billboard Auctor Quis Tristique Corp. with area 143250.0
+2. Billboard Hendrerit Institute with area 109629.0
+3. Billboard Risus Morbi LLC with area 84162.0
+4. Billboard Ac Metus Incorporated with area 78869.0
+5. Billboard Sociis Natoque Corporation with area 58950.0
+6. Billboard Neque Industries with area 123698.0
+7. Billboard Dui Fusce Aliquam Consulting with area 115182.0
+8. Billboard In Ltd with area 52116.0
+9. Billboard Orci Associates with area 96489.0
+10. Billboard Sed Neque Sed Corp. with area 78570.0
+11. Billboard Est Mollis Ltd with area 43180.0
+12. Billboard Nonummy Ultricies Associates with area 177355.0
+13. Billboard Commodo Tincidunt Nibh Associates with area 40404.0
+14. Billboard Et Corporation with area 82877.0
+15. Billboard Aenean Incorporated with area 49010.0
+16. Billboard Mauris Consulting with area 68864.0
+17. Billboard Arcu Vestibulum Foundation with area 202520.0
+18. Billboard Tincidunt Corporation with area 39788.0
+19. Billboard Libero At Incorporated with area 140890.5
+20. Billboard Erat Eget Tincidunt PC with area 237558.0
+21. Billboard A Aliquet Vel Consulting with area 105985.0
+22. Billboard Suspendisse Company with area 45360.0
+23. Billboard Nonummy Ac Associates with area 28534.5
+24. Billboard Integer In Foundation with area 71893.5
+25. Billboard Dui Semper Et Industries with area 132904.0
+26. Billboard Iaculis Corp. with area 32553.5
+27. Billboard Nec Tellus Nunc Consulting with area 217800.0
+28. Billboard Rutrum Lorem LLP with area 229360.0
+29. Billboard Sed Libero Proin LLC with area 111435.0
+30. Billboard A Mi Fringilla PC with area 112338.0
+31. Billboard Sed Est Nunc Ltd with area 119800.0
+32. Billboard Mauris Ut Mi Institute with area 97837.0
+33. Billboard Vel Corp. with area 30464.0
+34. Billboard Commodo Limited with area 154656.0
+35. Billboard Nulla Ante Iaculis Company with area 60956.0
+36. Billboard Risus Donec Egestas Incorporated with area 42048.0
+37. Billboard Enim Nec LLP with area 114526.0
+38. Billboard Eu Foundation with area 173455.0
+39. Billboard Libero Nec Ligula Limited with area 30275.5
+40. Billboard Sagittis Inc. with area 88320.0
+41. Billboard Sociis Ltd with area 78780.0
+42. Billboard Consequat Dolor Vitae LLP with area 133640.0
+43. Billboard Et Ultrices Foundation with area 97650.0
+44. Billboard Leo Institute with area 64500.0
+45. Billboard Vivamus Consulting with area 156996.0
+46. Billboard Lacus Limited with area 229762.5
+47. Billboard Augue Ac Ipsum LLP with area 156668.5
+48. Billboard Dolor Dapibus Gravida Incorporated with area 183237.5
+49. Billboard Amet Risus Donec Corporation with area 60060.0
+50. Billboard Vestibulum Mauris PC with area 233668.5
+51. Billboard Nulla Eget Metus Consulting with area 234300.0
+52. Billboard Varius Nam Ltd with area 79373.0
+53. Billboard Blandit Enim Consequat Consulting with area 100110.0
+54. Billboard Sed Pharetra LLP with area 49966.0
+55. Billboard Egestas LLC with area 133566.0
+56. Billboard Amet Consectetuer Foundation with area 48720.0
+57. Billboard Vehicula Aliquet Libero Foundation with area 98550.0
+58. Billboard Nam Nulla Magna Ltd with area 103056.0
+59. Billboard Sagittis PC with area 67704.0
+60. Billboard Mauris Ut Consulting with area 204459.0
+61. Billboard Eu Foundation with area 35189.0
+62. Billboard Tincidunt Congue Turpis Consulting with area 83391.0
+63. Billboard Malesuada Institute with area 220056.0
+64. Billboard Sagittis Placerat Institute with area 87881.5
+65. Billboard Vivamus LLC with area 116640.0
+66. Billboard Tellus Lorem Foundation with area 70440.0
+67. Billboard Tellus Institute with area 158593.0
+68. Billboard Luctus Sit Foundation with area 277903.5
+69. Billboard Gravida Limited with area 104250.0
+70. Billboard Vulputate Lacus Cras Inc. with area 209560.0
+71. Billboard Nunc Corp. with area 80886.0
+72. Billboard Eros Nam LLC with area 62472.0
+73. Billboard Accumsan Neque Et Industries with area 109895.5
+74. Billboard Ornare Tortor At Corp. with area 162992.0
+75. Billboard Nec Urna Consulting with area 187146.0
+76. Billboard Arcu Eu LLC with area 120551.5
+77. Billboard Tincidunt Incorporated with area 81024.0
+78. Billboard Aliquet Sem Ut Foundation with area 58425.0
+79. Billboard Facilisi Sed Consulting with area 33762.0
+80. Billboard Lobortis Tellus Incorporated with area 105340.0
+81. Billboard Ut Consulting with area 237164.0
+82. Billboard Donec Institute with area 195451.5
+83. Billboard Mattis Corporation with area 172672.5
+84. Billboard Consectetuer Corporation with area 102120.0
+85. Billboard Sed Hendrerit LLC with area 117707.5
+86. Billboard A Aliquet Vel Associates with area 72857.5
+87. Billboard Turpis In PC with area 59494.5
+88. Billboard Leo Morbi Neque Inc. with area 66675.0
+89. Billboard Nunc Sed Libero Foundation with area 197560.0
+90. Billboard Cursus Diam Corp. with area 53742.0
+91. Billboard Dapibus LLP with area 232552.5
+92. Billboard Sapien Imperdiet Ornare Inc. with area 46513.0
+93. Billboard Feugiat Tellus Lorem Institute with area 48230.0
+94. Billboard Lorem Ipsum PC with area 31174.0
+95. Billboard Metus Eu Corp. with area 41717.5
+96. Billboard Lacus Nulla Corp. with area 30855.0
+97. Billboard Gravida Praesent LLC with area 179523.5
+98. Billboard Sagittis Semper Nam Ltd with area 189880.0
+99. Billboard Curabitur Dictum Phasellus Associates with area 79549.5
+100. Billboard Eu Nibh Limited with area 128047.5
+101. Billboard Canal Caracol with area 30000.0

@@ -58,8 +58,21 @@ public class InfrastructureDepartment {
 		br.close();
 	}
 	
-	public void exportDangerousBillboardReport(String fn) {
-		
+	public void exportDangerousBillboardReport(String fn) throws IOException {
+		FileWriter fwEX = new FileWriter("data/report.txt", false);
+		fwEX.write("==========================\n"+
+				"DANGEROUS BILLBOARD REPORT\n"+
+				"==========================\n"+
+				"The dangerous billboard are:\n");
+
+		for(int i=0; i < billboards.size(); i++) {
+			if (billboards.get(i).calculateArea()>=160) {
+				Billboard exBillboards = billboards.get(i);
+				fwEX.write((i+1)+". Billboard "+exBillboards.getBrand()+" with area "+ exBillboards.calculateArea()+"\n");
+			}	
+		}
+
+		fwEX.close();
 	}
 	
 	public void importData(String fn) {
@@ -73,7 +86,7 @@ public class InfrastructureDepartment {
 			answer+=(billboards.get(i).getWidth()+"		"+billboards.get(i).getHeigth()+"		"+billboards.get(i).isInUse()+"		"+billboards.get(i).getBrand()+"		\n");;
 			
 		}
-		answer+="TOTAL: "+ billboards.size() + " vallas";
+		answer+="\nTOTAL: "+ billboards.size() + " vallas";
 		return answer;
 	}
 
