@@ -2,13 +2,14 @@ package ui;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import model.InfrastructureDepartment;
 
 public class Main {
 	
-	public int EXIT_OPTION = 5;
+	public int EXIT_OPTION = 5;   // no se para que sirve esta variable, tampoco la uso
 	public static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	public static InfrastructureDepartment infrastructureDepartment;
 	
@@ -51,9 +52,18 @@ public class Main {
 			break;
 		case 3:
 			infrastructureDepartment.exportDangerousBillboardReport("exportar");
-			
+			BufferedReader br2 = new BufferedReader(new FileReader("data/report.txt"));
+			String line = br2.readLine();
+			while (line!=null) {
+				System.out.println(line);
+				line = br2.readLine();
+			}
+			br2.close();
 			break;
-		default:
+		case 4:
+			// se cierra el programa
+			break;
+		default: System.out.println("Please select a valid option");
 			break;
 		}
 	}

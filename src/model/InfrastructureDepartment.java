@@ -26,7 +26,6 @@ public class InfrastructureDepartment {
 	}
 	
 	public void saveBillboards() throws FileNotFoundException, IOException {
-		
 		//Document csv
 		FileWriter fw = new FileWriter(BILLBOARD_FILE_NAME, false);
 		fw.write("width|height|inUse|brand\n");
@@ -76,7 +75,7 @@ public class InfrastructureDepartment {
 	}
 	
 	public void importData(String fn) {
-		
+		// no supe para que usar este metodo, pero estaba en el diagrama asi que lo dejo aqui uwu
 	}
 	
 	public String toString() {
