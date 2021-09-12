@@ -1,17 +1,20 @@
 package model;
 
-public class Billboard {
+import java.io.Serializable;
+
+public class Billboard implements Serializable  {
 	
+	private static final long serialVersionUID = 1L;
 	private double width;
 	private double heigth;
 	private boolean inUse;
 	private String brand;
 	
-	public Billboard(double width, double heigth, boolean inUse, String brand) {
-		this.width = width;
-		this.heigth = heigth;
-		this.inUse = inUse;
-		this.brand = brand;
+	public Billboard (double w, double h, boolean iu, String b) {
+		width = w;
+		heigth = h;
+		inUse = iu;
+		brand = b;
 	}
 	
 	public double calculateArea() {
@@ -30,6 +33,10 @@ public class Billboard {
 
 	public String getBrand() {
 		return brand;
+	}
+
+	public boolean isInUse() {
+		return inUse;
 	}
 	
 	
